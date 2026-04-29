@@ -26,20 +26,24 @@ It covers:
 - Reduce broadcast domains
 
 ### 📡 Wireless Access Points
+![Wireless Access Point](https://static.mercusys.com/product-image/MAP80X_UN_1.0_Overview_normal20250810124759.png)
 - Bridge wireless clients to wired networks
 - Operate at Layer 2
 
 ### 🌐 Routers (Layer 3)
+![Network Router](https://e.huawei.com/marketingcloud/pep/asset/2000000101/images/products/routers/ar5710-s/overview-v2.png)
 - Forward packets between networks
 - Use IP addresses and routing tables
 - Enable internetwork communication
 
 ### 🔥 Firewalls
+![Firewall Device](https://png.pngtree.com/png-vector/20250218/ourlarge/pngtree-firewall-hardware-png-image_15506567.png)
 - Enforce security policies using ACLs
 - Operate at Layer 3 and above
 - Control inbound/outbound traffic
 
 ### ⚖️ Load Balancers
+![Load Balancer](https://shop.netgate.com/cdn/shop/files/1537_EOS_1024×1024.png?v=1721661621)
 - Distribute traffic across servers
 - Improve availability & scalability
 - Operate at Layer 4 and Layer 7
@@ -67,6 +71,7 @@ It covers:
 ---
 
 ## 🌐 IP Addressing
+![IPv4 vs IPv6](https://d2cestlyk6hx2d.cloudfront.net/uninets-001/store/3057/article%20images/ipv4-vs-ipv6-infographics.png)
 
 ### IPv4
 Example: `172.16.1.101/16`

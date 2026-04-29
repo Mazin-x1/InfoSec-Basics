@@ -20,6 +20,7 @@ It covers:
 ## 🧠 Network Appliances
 
 ### 🔌 Switches (Layer 2)
+![Network Switch](https://png.pngtree.com/png-vector/20250416/ourlarge/pngtree-a-networking-switch-positioned-on-plain-white-surface-clearly-defined-edges-png-image_16026897.png)
 - Forward frames using MAC addresses
 - Create VLANs to segment networks
 - Reduce broadcast domains

@@ -9,7 +9,7 @@ This module covers how access to systems is controlled, how identities are verif
 It includes:
 - IAM core processes
 - Authentication mechanisms
-- Multi-Factor Authentication (MFA)
+- Multi-Factor Authentication (MFA) 
 - Kerberos authentication model
 - Password attack techniques & defenses
 
@@ -77,8 +77,6 @@ Resources being accessed:
 ---
 
 ## 🧠 Kerberos Authentication Model
-
-![Kerberos Flow](https://miro.medium.com/1*B_XxW3GzF2y3HmlCtjeeeig.jpeg)
 
 - Uses a trusted third party: **Key Distribution Center (KDC)**  
 - Operates on **Port 88 (TCP/UDP)**  

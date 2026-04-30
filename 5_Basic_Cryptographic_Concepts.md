@@ -66,8 +66,6 @@ Collision resistance is critical — weak hashing (like MD5) can be exploited in
 
 ## 🔓 Asymmetric Encryption
 
-![Public Key Encryption](https://wzyguyscybersecurity.com/wp-content/uploads/2019/08/Encryption-Infographic-public-private-keys.jpg)
-
 - Uses **key pair (Public / Private)**  
 - Public key → encryption  
 - Private key → decryption  
